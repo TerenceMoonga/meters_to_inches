@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meters_To_Inches</string>
+    <string name="error_message">please enter valid number</string>
+    <string name="btnnext">Go To</string>
+    <string name="tometersbtn">"Convert To Meters "</string>
+    <string name="uncleG">Eng. Gift M</string>
+    <string name="inchestv">INCHES TO METERS</string>
+    <string name="error_msgfromsecondactivty">Please enter the valid number</string>
+</resources>
